@@ -16,7 +16,7 @@
     <project.reporting.outputEncoding>utf-8</project.reporting.outputEncoding>
   </properties>
 
-  <modules>
+ /* <modules>
     <module>server</module>
     <module>webapp</module>
   </modules>
@@ -28,7 +28,7 @@
       <url>file:///tmp/maven-project-site</url>
     </site>
   </distributionManagement>
-
+*/
   <build>
     <plugins>
       <plugin>
@@ -207,7 +207,7 @@
   </dependencyManagement>
 
   <scm>
-    <connection>scm:git:git@github.com:sanghapal25/hello-java-world.git</connection>
+    <connection>scm:git:git@github.com:Peddolla-Chiranjeevi/Java-Jar-HelloWorld.git</connection>
     <developerConnection>scm:git:git@github.com/Peddolla-Chiranjeevi/Java-Jar-HelloWorld.git</developerConnection>
     <tag>HEAD</tag>
     <url>http://github.com/Peddolla-Chiranjeevi/Java-Jar-HelloWorld</url>
